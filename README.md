@@ -29,7 +29,7 @@ ___
 Bootcamp organizado pelo Ifood para capacitação em desenvolvimento de jogos em parceria com DIO.
 
 **Licença:**  
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Alan-oliveir/Buscar_END/blob/main/LICENSE)
+[![MIT](https://img.shields.io/npm/l/react)](https://github.com/Alan-oliveir/Pokedex/blob/main/LICENSE.md)
  
 **Contato:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-ogoncalves)
