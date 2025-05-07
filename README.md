@@ -24,6 +24,9 @@ O repositório está organizado da seguinte forma:
 ## Layout
 ![Pokedex](https://github.com/Alan-oliveir/Pokedex/blob/main/screenshot/screenshot.png)
 
+## Site
+A página está disponível neste [link](https://alan-oliveir.github.io/Pokedex/).
+
 ___
 **Potência Tech Ifood - Desenvolvimento de Jogos**  
 Bootcamp organizado pelo Ifood para capacitação em desenvolvimento de jogos em parceria com DIO.
